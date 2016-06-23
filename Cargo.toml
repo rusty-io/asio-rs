@@ -1,0 +1,6 @@
+[package]
+name = "asio"
+version = "0.1.0"
+authors = ["rusty-io Developers"]
+
+[dependencies]
